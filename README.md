@@ -2,7 +2,7 @@
 
 ![Todolist-v1]
 
-Todolist-v1 is a simple web application that allows users to manage their daily tasks and keep track of their to-do list. This project is built using HTML, CSS, and JavaScript, and it serves as an introduction to web development for beginners.
+Todolist-v1 is a simple web application that allows users to manage their daily tasks and keep track of their to-do list. This project is built using Nodejs, Express and Ejs. it serves as an introduction to web development for beginners.
 
 ## Demo
 
